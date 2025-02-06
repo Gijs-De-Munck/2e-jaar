@@ -1,0 +1,7 @@
+- waarom was adg groot?
+	- Hij maakte op korte tijd een groot rijk
+	- Hij kon op korte tijd een groot leger samenstellen
+- pro ''De Grote''
+	- Hij was een charismatish lijder
+- contra ''De Grote''
+	- gruwelijk tegenover slaven en overmonnen
