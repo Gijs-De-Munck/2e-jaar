@@ -1,0 +1,5 @@
+.obsidian/      # Ignore Obsidian settings
+logseq/bak/     # Ignore Logseq backups
+logseq/config.edn  # Ignore Logseq user settings
+logseq/workspace/  # Ignore Logseq workspace state
+logseq/
